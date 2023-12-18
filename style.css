@@ -123,4 +123,24 @@ p {
 
 .copyright {
   padding-top: 20px;
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    width: 100%;
+  }
+  body .header .navbar {
+    display: block;
+  }
+  body .main .mission .content {
+    background-color: transparent;
+    color: white;
+  }
+  body .main #portfolio .content .companies .company {
+    display: block;
+  }
+  body .main #portfolio .content .companies .company img,
+  body .main #portfolio .content .companies .company span {
+    width: 100%;
+  }
 }/*# sourceMappingURL=style.css.map */
