@@ -55,7 +55,7 @@ p {
 .mission {
   display: flex;
   height: 300px;
-  background-image: url("https://pub-static.fotor.com/assets/bg/97d411cb-569e-400f-9d29-b5ddc1bc7b05.png");
+  background-image: url("images/starsky.png");
   padding-top: 35px;
 }
 .mission .content {
@@ -97,7 +97,7 @@ p {
 }
 
 .team {
-  background-image: url("https://images.unsplash.com/photo-1432847712612-926caafaa802?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D");
+  background-image: url("images/citylights.jpg");
   padding-top: 70px;
   padding-top: 5px;
   display: flex;
