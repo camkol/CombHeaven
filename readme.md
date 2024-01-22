@@ -4,10 +4,10 @@
 
 1. HTML
 2. CSS
-   -SASS
+   - SASS
 3. Photoshop
 
 ## Notes
 
--Improved responsiveness
--Worked on images and made self-sufficient with Photoshop
+- Improved responsiveness
+- Worked on images and made self-sufficient with Photoshop
